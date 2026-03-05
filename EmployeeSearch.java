@@ -12,7 +12,8 @@ eName=sc.nextLine();
 System.out.print("Enter Employee Salary: ");
 eSalary=sc.nextDouble();
 }
-void display(){
+void display()
+{
 System.out.println("Employee Number: "+eNo);
 System.out.println("Employee Name: "+eName);
 System.out.println("Employee Salary: "+eSalary);
